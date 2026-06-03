@@ -13,6 +13,8 @@ A collection of JavaScript learning files covering basic concepts.
 | `Chapter_02_JS_Concepts/hoisting.js` | Hoisting — definition, working & examples |
 | `Chapter_03_identifier/` | Identifier rules and examples |
 | `Chapter_03_identifier_literals/` | Literals in JavaScript |
+| `11_05_Basics/var_fucn.js` | `var` scoping inside functions |
+| `11_05_Basics/var_host.js` | `var` hoisting within function scope |
 
 ## Topics Covered
 
@@ -20,6 +22,7 @@ A collection of JavaScript learning files covering basic concepts.
 - Identifier naming rules
 - Naming conventions (camelCase, PascalCase, snake_case, etc.)
 - Variables (`var`, `let`, `const`)
+- `var` scoping inside functions (function-scoped, not block-scoped)
 - Basic program structure
 - **Hoisting** — JavaScript's default behavior of moving declarations to the top of their scope
   - Function declarations are fully hoisted
@@ -57,3 +60,5 @@ JavaScript functions are blocks of reusable code. VS Code provides rich support 
 | `Chapter_02_JS_Concepts/hoisting.js` | How function declarations vs expressions behave with hoisting |
 | `Chapter_01_Basics/03_JS_Basic.js` | `camelCase` naming convention for functions |
 | `Chapter_03_identifier/VS_shortcut.md` | VS Code keyboard shortcuts |
+| `11_05_Basics/var_fucn.js` | `var` function scoping vs global scope |
+| `11_05_Basics/var_host.js` | `var` hoisting within function scope |
