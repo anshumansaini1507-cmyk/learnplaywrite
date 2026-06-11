@@ -15,6 +15,11 @@ A collection of JavaScript learning files covering basic concepts.
 | `Chapter_03_identifier_literals/` | Literals in JavaScript |
 | `11_05_Basics/var_fucn.js` | `var` scoping inside functions |
 | `11_05_Basics/var_host.js` | `var` hoisting within function scope |
+| `13_05_Session/13_Literal.js` | Literals — string, boolean, number, null, undefined |
+| `13_05_Session/let_block_host.js` | `let` block scoping and TDZ demonstration |
+| `13_temp_lit.js` | Template literal with string interpolation |
+| `26_Literal_Number_all.js` | All JavaScript number types (int, float, binary, octal, hex, BigInt, etc.) |
+| `29_backtick_single_double.js` | String types — single quotes, double quotes, and backticks compared |
 
 ## Topics Covered
 
@@ -29,6 +34,10 @@ A collection of JavaScript learning files covering basic concepts.
   - `var` is hoisted (initialized as `undefined`)
   - `let` / `const` are hoisted but in Temporal Dead Zone (TDZ)
   - Function expressions & class declarations are **not** hoisted
+- **Literals** — string, boolean, number, null, undefined
+- **Number types** — integer, float, binary, octal, hexadecimal, BigInt, Infinity, NaN
+- **String types** — single quotes, double quotes, template literals (backticks)
+- **Template literals** — string interpolation, multi-line strings, expressions
 
 ## Functions in VS Code
 

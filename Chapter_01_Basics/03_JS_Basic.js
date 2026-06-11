@@ -39,7 +39,7 @@
 
 var v = 10;
 console.log(v); // 10
-
+WRTGCUV W
 v = 20;
 console.log(v); // 20
 
